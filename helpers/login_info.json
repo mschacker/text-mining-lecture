@@ -1,0 +1,57 @@
+{
+    "accounts": [
+        {
+            "username": "mobile_marketing_konferenz",
+            "pw": "mcmResearch"
+        },
+        {
+            "username": "startup_radar",
+            "pw": "mcmResearch"
+        },
+        {
+            "username": "mcmresearch",
+            "pw": "mcmResearch1"
+        },
+        {
+            "username": "vegicookbook",
+            "pw": "mcmResearch"
+        },
+        {
+            "username": "with.impact",
+            "pw": "mcmResearch1"
+        }
+    ],
+    "airtable_bases": {
+        "gillette": "appkQDmsQAeTKgsJm",
+        "vaselinebrand": "appVS5yeukWVCXssa",
+        "dove": "appsYqbNxEKvAB2V3",
+        "nike": "app1DND1VJqN72Squ",
+        "adidas": "appMl07DRR7j1DbKI",
+        "puma": "appMl07DRR7j1DbKI",
+        "reebokeurope": "appVr078fWcKxY9DK",
+        "nestle": "appwpyIuE2pS0ePha",
+        "unilever": "appnXoEI4dKigGAPp",
+        "proctergamble": "appVMdy2oB1I8gGui",
+        "warbyparker": "appljfSvWShJ55hNZ",
+        "nikinclothing": "app9KjUrQyMWHRMK4",
+        "bombas": "appdnN7LWMqIv5OGb",
+        "wearpact": "app0m7UutRBszeGL3",
+        "soylent": "appPYcstLyyYj4fLh",
+        "patagoniaeurope": "appF0LPKVlhdaPL5U",
+        "byhumankind": "apphhV9wkW748KfzK",
+        "allplants": "appn7AS0MLGmzQVrY",
+        "frankandoak": "appCiPeASa8Np9yLz",
+        "allbirds": "appCEN5m4gxhhTMl8",
+        "cotopaxi": "app8S13aax12a4iN2",
+        "toms": "app3HmMoQnymZjfv1",
+        "cariuma": "app3mzkcPDs9hmiH9",
+        "rothys": "appE5aC9RaIRYvhE0",
+        "honest": "appFXuuE6CPAuRDId",
+        "the_citizenry": "appgWJSV0zUQLhexG",
+        "cuyana": "appcc6mdUIjeksCqD",
+        "grovecollaborative": "appaAxYiiEgY8FsyR",
+        "everlane": "appNvcIygWGmFiX7t",
+        "tentree": "appOk8GPNKWVJQW04",
+        "patagonia": "appwswnAb0808boRj"
+    }
+}
